@@ -212,6 +212,12 @@ XMedia is designed with MVVM design pattern.
 - Lottie
 - Circle Indicator
 
+## Contributors
+- Abdurrahim Cillioglu
+- Ahmet Yunus Sevim
+- Emre Ozdemir
+- Oguzhan Kalkar
+
 # License
 ```xml
 
