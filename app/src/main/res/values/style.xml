@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="divider">
+        <item name="android:foreground">
+            @color/colorXMediaPrimaryBlue
+        </item>
+    </style>
+
+    <style name="home_text_style_regular">
+        <item name="android:fontFamily">
+            @font/montserrat_regular
+        </item>
+    </style>
+
+    <style name="home_text_style_bold">
+        <item name="android:fontFamily">
+            @font/montserrat_bold
+        </item>
+    </style>
+
+    <style name="home_text_style_semi_bold">
+        <item name="android:fontFamily">
+            @font/montserrat_semi_bold
+        </item>
+    </style>
+
+    <style name="BottomNavigationViewStyle" parent="Widget.MaterialComponents.BottomNavigationView.Colored">
+        <item name="android:background">@color/colorXMediaPrimarySoftDark</item>
+        <item name="itemTextColor">@color/bottom_nav_item_color</item>
+        <item name="itemIconTint">@color/bottom_nav_item_color</item>
+    </style>
+
+
+</resources>

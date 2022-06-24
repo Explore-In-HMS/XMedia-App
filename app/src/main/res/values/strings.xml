@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">XMedia</string>
+    <string name="x_media">X-MEDIA</string>
+    <string name="title_home">Home</string>
+    <string name="title_projects">Projects</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="splash_logo_desc">Application icon</string>
+
+    <string name="onBoarding_button_finish">Finish</string>
+    <string name="onBoarding_button_next">Next</string>
+    <string name="onBoarding_title_edit_photo">Edit Your Photos</string>
+    <string name="onBoarding_desc_edit_photo">Add sticker, filter to your photos or resize them</string>
+    <string name="onBoarding_title_edit_video_audio">Edit Your Videos and Audios</string>
+    <string name="onBoarding_desc_edit_video_audio">Enrich your videos with a rich array of video processing capabilities</string>
+    <string name="onBoarding_title_save_cloud">Save to the Cloud</string>
+    <string name="onBoarding_desc_save_cloud">Store your image, audio or video files to Cloud securely</string>
+
+    <string name="login_welcome">Welcome</string>
+    <string name="login_image_logo_desc">Application icon</string>
+
+    <string name="home_video_edit">Video Edit</string>
+    <string name="home_image_edit">Image Edit</string>
+    <string name="home_sound_edit">Sound Edit</string>
+    <string name="home_edit">Edit</string>
+    <string name="home_title">Hello,</string>
+    <string name="home_title_small">Let\'s edit your files</string>
+    <string name="home_video_edit_desc">Video Edit Icon</string>
+    <string name="home_image_edit_desc">Image Edit Icon</string>
+    <string name="home_sound_edit_desc">Sound Edit Icon</string>
+
+    <string name="settings_button_logout">Logout</string>
+    <string name="settings_button_export_path">Export Path</string>
+    <string name="settings_button_about_us">About us</string>
+    <string name="settings_button_privacy_policy">Privacy Policy</string>
+    <string name="settings_button_terms_and_conditions">Terms and Conditions</string>
+    <string name="settings_image_logout_desc">Logout button icon</string>
+    <string name="settings_image_detail_desc">Detail icon</string>
+
+    <string name="empty_project_title">There is no project yet</string>
+    <string name="empty_project_desc">Start to create new project file</string>
+    <string name="projects_folder_desc">Projects folder Icon</string>
+
+    <string name="projects_card_bg">Projects Page Card Background Image</string>
+    <string name="projects_card_name">test.mp4</string>
+    <string name="projects_play_button_desc">Projects play icon on the card</string>
+    <string name="projects_edit_icon_desc">Projects edit card icon</string>
+    <string name="projects_toolbar_on_local">Project - on Local</string>
+    <string name="projects_toolbar_on_cloud">Project - on Cloud</string>
+    <string name="projects_deleted_successfully">File deleted successfully</string>
+    <string name="projects_an_error_occurred">An error occurred: %s</string>
+
+    <string name="permission_message_for_video_editing">XMedia needs to access your storage for Video Editing.</string>
+    <string name="permission_message_for_audio_editing">XMedia needs to access your storage for Video Editing.</string>
+    <string name="permission_message_for_image_editing">XMedia needs to access your storage for Video Editing.</string>
+    <string name="permission_message_for_projects">XMedia needs to access your storage for showing your projects.</string>
+    <string name="permission_message_for_upload">XMedia needs to access your storage for uploading media files.</string>
+
+    <string name="dialog_title">Success</string>
+    <string name="dialog_desc">Ullamcorper imperdiet urna id non sed est sem. Rhoncus amet, enim purus gravida donec aliquet.</string>
+    <string name="dialog_icon">Dialog state icon on the dialog</string>
+    <string name="dialog_button_text">OK</string>
+
+    <string name="dialog_project_text_share">Share</string>
+    <string name="dialog_project_text_delete">Delete</string>
+
+    <string name="name_file_and_extension">%1s.%2s</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="preview">Preview</string>
+    <string name="audio_player_duration_placeholder">00:00</string>
+    <string name="file_name">File Name</string>
+    <string name="aac">aac</string>
+    <string name="m4a">m4a</string>
+    <string name="wav">wav</string>
+    <string name="mp3">mp3</string>
+    <string name="export">Export</string>
+    <string name="flac">flac</string>
+    <string name="export_complete">Export Complete</string>
+    <string name="file_created">File Created</string>
+    <string name="export_complete_icon">export complete icon</string>
+    <string name="ok">OK</string>
+
+    <string name="text_circular">Circular</string>
+    <string name="text_rectangle">Rectangle</string>
+    <string name="image_background_desc">Image that is processed by Image Kit</string>
+    <string name="crop_icon_desc">Crop icon for Image</string>
+    <string name="flip_icon_desc">Flip icon for Image</string>
+    <string name="rotate_icon_desc">Rotate icon for Image</string>
+    <string name="recycler_view_item_desc">Recycler View Item</string>
+    <string name="crop">Crop</string>
+    <string name="flip_v">Flip Vertically</string>
+    <string name="flip_h">Flip Horizontally</string>
+    <string name="rotate">Rotate</string>
+    <string name="clear_stickers">Clear</string>
+    <string name="done">Done</string>
+
+    <string name="filter_icon_desc">Filter icon for Image</string>
+    <string name="sticker_icon_desc">Sticker icon for Image</string>
+    <string name="filter">Add Filter</string>
+    <string name="sticker">Add Sticker</string>
+    <string name="crop_img">Crop the Image</string>
+    <string name="add_image">Add Image</string>
+    <string name="save_image">Save Image</string>
+    <string name="gallery">From Gallery</string>
+    <string name="camera">From Camera</string>
+    <string name="add_an_image">Add an image</string>
+
+    <string name="video_player">Video Player</string>
+    <string name="back_icon_desc">Back icon</string>
+    <string name="upload_icon_desc">Upload icon for Video Player</string>
+
+    <string name="settings_placeholder_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium ex eu aliquam laoreet. Suspendisse varius quam ornare convallis aliquet. Etiam consectetur velit magna. Donec ipsum mi, dapibus ultrices neque sagittis, vulputate lacinia orci. Ut eu sodales nisi. Mauris egestas arcu vitae ex tempor, nec ultrices massa fringilla. Donec quis purus a odio tincidunt faucibus convallis id arcu. Maecenas euismod diam ex, ut vehicula odio ullamcorper eu. Suspendisse potenti. Nullam et nibh mauris. Vivamus et metus lorem. Aenean luctus quam ac tellus pharetra convallis. Duis vitae aliquam felis, id scelerisque sem. Mauris quis lectus et tortor tincidunt varius. Morbi interdum iaculis scelerisque. In consectetur auctor mattis. Duis consequat, nulla ac porttitor dapibus, neque risus blandit lacus, sed accumsan velit eros mattis arcu. Morbi dictum fringilla orci, in pulvinar metus molestie ut. Mauris sit amet massa purus. Sed diam mauris, volutpat at pulvinar quis, lobortis ut libero. Mauris ultrices enim at feugiat malesuada. Morbi velit nunc, volutpat in nunc et, pharetra porttitor lorem. Nulla posuere eleifend cursus. Ut sit amet nisl justo. Proin at pharetra quam. Maecenas egestas leo lobortis justo posuere, in porta odio blandit.</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="about_us">About Us</string>
+    <string name="upload_image_desc">You need to upload an image to continue</string>
+    <string name="upload_image">Upload an Image</string>
+
+    <string name="error">Error</string>
+    <string name="error_desc">Something went wrong</string>
+    <string name="retry">Retry</string>
+
+</resources>
